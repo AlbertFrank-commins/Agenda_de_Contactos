@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda_de_Contactos", "Agenda_de_Contactos\Agenda_de_Contactos.csproj", "{C712BCB4-95B4-4BA4-98B0-E00101E1AC23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "presentacion", "presentacion\presentacion.csproj", "{5B566328-B207-4FF0-93D8-CCE362C4A2C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datos", "datos\datos.csproj", "{8B06DCF8-77A1-4B74-B9EE-648C52B56578}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C712BCB4-95B4-4BA4-98B0-E00101E1AC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C712BCB4-95B4-4BA4-98B0-E00101E1AC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C712BCB4-95B4-4BA4-98B0-E00101E1AC23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B566328-B207-4FF0-93D8-CCE362C4A2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B566328-B207-4FF0-93D8-CCE362C4A2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B566328-B207-4FF0-93D8-CCE362C4A2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B566328-B207-4FF0-93D8-CCE362C4A2C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B06DCF8-77A1-4B74-B9EE-648C52B56578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B06DCF8-77A1-4B74-B9EE-648C52B56578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B06DCF8-77A1-4B74-B9EE-648C52B56578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B06DCF8-77A1-4B74-B9EE-648C52B56578}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
