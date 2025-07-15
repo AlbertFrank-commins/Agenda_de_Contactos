@@ -8,9 +8,7 @@ namespace datos
 {
     internal class Program
     {
-        static void Main(string[] args)
-        {
-            //hola
-        }
+        List<Tuple<string, int, string>> listaDeDatos = new List<Tuple<string, int, string>>();
+
     }
 }
