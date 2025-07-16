@@ -16,5 +16,10 @@ namespace presentacion
         {
             InitializeComponent();
         }
+
+        private void btnagregarp_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
