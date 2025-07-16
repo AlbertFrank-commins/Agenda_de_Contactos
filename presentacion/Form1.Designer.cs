@@ -52,7 +52,7 @@
             this.guna2Panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.guna2Panel1.Location = new System.Drawing.Point(0, 0);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(577, 1059);
+            this.guna2Panel1.Size = new System.Drawing.Size(577, 1044);
             this.guna2Panel1.TabIndex = 2;
             // 
             // guna2DataGridView1
@@ -81,7 +81,7 @@
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.guna2DataGridView1.DefaultCellStyle = dataGridViewCellStyle3;
             this.guna2DataGridView1.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(189)))), ((int)(((byte)(184)))));
-            this.guna2DataGridView1.Location = new System.Drawing.Point(72, 149);
+            this.guna2DataGridView1.Location = new System.Drawing.Point(72, 142);
             this.guna2DataGridView1.Name = "guna2DataGridView1";
             this.guna2DataGridView1.ReadOnly = true;
             this.guna2DataGridView1.RowHeadersVisible = false;
@@ -115,7 +115,7 @@
             // guna2Separator1
             // 
             this.guna2Separator1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.guna2Separator1.Location = new System.Drawing.Point(72, 105);
+            this.guna2Separator1.Location = new System.Drawing.Point(72, 98);
             this.guna2Separator1.Name = "guna2Separator1";
             this.guna2Separator1.Size = new System.Drawing.Size(425, 38);
             this.guna2Separator1.TabIndex = 8;
@@ -129,7 +129,7 @@
             this.btnagregarp.ImageOffset = new System.Drawing.Point(0, 0);
             this.btnagregarp.ImageRotate = 0F;
             this.btnagregarp.IndicateFocus = true;
-            this.btnagregarp.Location = new System.Drawing.Point(72, 945);
+            this.btnagregarp.Location = new System.Drawing.Point(72, 927);
             this.btnagregarp.Name = "btnagregarp";
             this.btnagregarp.PressedState.ImageSize = new System.Drawing.Size(64, 64);
             this.btnagregarp.Size = new System.Drawing.Size(135, 114);
@@ -140,7 +140,7 @@
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Garamond", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(66, 12);
+            this.label1.Location = new System.Drawing.Point(66, 5);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(87, 31);
             this.label1.TabIndex = 6;
@@ -158,7 +158,7 @@
             this.btbuscar.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.btbuscar.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btbuscar.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.btbuscar.Location = new System.Drawing.Point(72, 48);
+            this.btbuscar.Location = new System.Drawing.Point(72, 41);
             this.btbuscar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btbuscar.Name = "btbuscar";
             this.btbuscar.PlaceholderText = "Busca su producto";
@@ -170,7 +170,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(577, 1059);
+            this.ClientSize = new System.Drawing.Size(577, 1044);
             this.Controls.Add(this.guna2Panel1);
             this.Name = "Form1";
             this.Text = "Form1";
